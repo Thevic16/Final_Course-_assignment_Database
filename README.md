@@ -15,9 +15,6 @@ Make a connection to the database from a fourth generation language that suits y
 
 ![DataBase Diagram](https://github.com/Thevic16/Final_Course-_assignment_Database/blob/main/Images/Diagrama%20UML%20BDDP.png)
 
-- UML diagram.
-
-![DataBase Diagram](https://github.com/Thevic16/Final_Course-_assignment_Database/blob/main/Images/Diagrama%20UML%20BDDP.png)
 
 - Functions.
 
