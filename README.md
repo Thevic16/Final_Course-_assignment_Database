@@ -6,3 +6,6 @@ Final course assignment PUCMM Database
 - Assignment.
 
 Make a connection to the database from a fourth generation language that suits you and make the options that allow you to add / update / delete the data from the tables: student, subject, group including assigning the schedule to the group and the process of enrollment of a student (this is adding or removing the groups that a specific student wishes to enroll). At the end, the report must be presented using a stored procedure of the groups registered by a student, including the schedule in condensed format.
+
+
+![DataBase Diagram](https://github.com/Thevic16/Thevic16/blob/main/Room-Name-Full.jpg)
